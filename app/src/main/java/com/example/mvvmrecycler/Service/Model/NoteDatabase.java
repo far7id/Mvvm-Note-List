@@ -1,4 +1,4 @@
-package com.example.mvvmrecycler.model;
+package com.example.mvvmrecycler.Service.Model;
 
 import android.content.Context;
 import android.os.AsyncTask;

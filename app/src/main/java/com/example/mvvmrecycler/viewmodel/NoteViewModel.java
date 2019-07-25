@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.mvvmrecycler.model.Note;
-import com.example.mvvmrecycler.model.NoteRepository;
+import com.example.mvvmrecycler.Service.Model.Note;
+import com.example.mvvmrecycler.Service.Repository.NoteRepository;
 
 import java.util.List;
 

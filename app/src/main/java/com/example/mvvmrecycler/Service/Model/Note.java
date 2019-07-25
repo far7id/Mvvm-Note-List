@@ -1,4 +1,4 @@
-package com.example.mvvmrecycler.model;
+package com.example.mvvmrecycler.Service.Model;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

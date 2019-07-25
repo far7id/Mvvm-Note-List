@@ -1,9 +1,13 @@
-package com.example.mvvmrecycler.model;
+package com.example.mvvmrecycler.Service.Repository;
 
 import android.app.Application;
 import android.os.AsyncTask;
 
 import androidx.lifecycle.LiveData;
+
+import com.example.mvvmrecycler.Service.Model.Note;
+import com.example.mvvmrecycler.Service.Model.NoteDao;
+import com.example.mvvmrecycler.Service.Model.NoteDatabase;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.mvvmrecycler.view;
+package com.example.mvvmrecycler.view.ui;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

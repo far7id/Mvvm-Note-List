@@ -1,4 +1,4 @@
-package com.example.mvvmrecycler.view;
+package com.example.mvvmrecycler.view.ui;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,8 +17,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.mvvmrecycler.model.Note;
-import com.example.mvvmrecycler.NoteAdapter;
+import com.example.mvvmrecycler.Service.Model.Note;
+import com.example.mvvmrecycler.view.adapter.NoteAdapter;
 import com.example.mvvmrecycler.viewmodel.NoteViewModel;
 import com.example.mvvmrecycler.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
